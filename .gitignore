@@ -416,7 +416,7 @@ __marimo__/
 docs/
 
 # Ignore images folder
-images/
+# images/
 
 # Ignore dashboards folder
 dashboards/

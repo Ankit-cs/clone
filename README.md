@@ -1,24 +1,33 @@
-# 🏨 Hotel Booking Analytics and Cancellation Prediction
+# Hotel Booking Analytics and Cancellation Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA-orange)
 
-## 🎓 Machine Learning Practical Assignment
+## Machine Learning Practical Assignment
 
 **Team Information:**
 - **Member 1 Name:** Anurag
   - **Roll No:** CSJMA23001390009
-  - **Contribution:** Dataset and data cleaning part.
+  - **Contribution:** Problem and Dataset Understanding, Initial Data Exploration, Missing Value Handling, and Duplicate and Invalid Data Treatment.
 
 - **Member 2 Name:** Ankit Kumar
   - **Roll No:** CSJMA2300139005
-  - **Contribution:** Implemented the full pipeline.
+  - **Contribution:** Preprocessing Pipeline, Data Transformation, Feature Scaling, Data Visualization, Train-Test Split, and Data Leakage prevention.
 
 - **Member 3 Name:** Anjesh Arya
   - **Roll No:** CSJMA 23001390004
-  - **Contribution:** Model Training and Evaluation
+  - **Contribution:** Categorical Data Encoding, Outlier Detection and Treatment, Feature Selection, and final Model Training and Evaluation.
+
+---
+
+## 🛠️ Implementation Approach
+
+In alignment with the assignment guidelines, this project focuses heavily on understanding the core mathematical concepts and logic behind data preprocessing. We followed a rigorous learning process: 
+**Theory → Formula/Logic → From-Scratch Code → Output → Library Verification → Interpretation**
+
+Key preprocessing steps (like feature scaling, encoding, missing value imputation, and feature selection) were first implemented from scratch before using optimized library functions (like those in `scikit-learn`) for verification.
 
 ---
 
@@ -236,7 +245,7 @@ Feature importance represents predictive contribution within the model and shoul
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 The project includes a Power BI decision-support dashboard consisting of five analytical pages.
 
