@@ -1,19 +1,24 @@
-# Hotel Booking Analytics and Cancellation Prediction
+# 🏨 Hotel Booking Analytics and Cancellation Prediction
 
-## Machine Learning Practical Assignment
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-EDA-orange)
+
+## 🎓 Machine Learning Practical Assignment
 
 **Team Information:**
 - **Member 1 Name:** Anurag
-- **Roll No:** CSJMA23001390009
-- **Contribution:** Dataset and data cleaning part.
+  - **Roll No:** CSJMA23001390009
+  - **Contribution:** Dataset and data cleaning part.
 
 - **Member 2 Name:** Ankit Kumar
-- **Roll No:** CSJMA2300139005
-- **Contribution:** Implemented the full pipeline.
+  - **Roll No:** CSJMA2300139005
+  - **Contribution:** Implemented the full pipeline.
 
 - **Member 3 Name:** Anjesh Arya
-- **Roll No:** CSJMA 23001390004
-- **Contribution:** Model Training and Evaluation 
+  - **Roll No:** CSJMA 23001390004
+  - **Contribution:** Model Training and Evaluation
 
 ---
 
@@ -231,7 +236,7 @@ Feature importance represents predictive contribution within the model and shoul
 
 ---
 
-##  Power BI Dashboard
+## 📊 Power BI Dashboard
 
 The project includes a Power BI decision-support dashboard consisting of five analytical pages.
 
@@ -239,17 +244,25 @@ The project includes a Power BI decision-support dashboard consisting of five an
 
 Provides a high-level overview of hotel booking performance and key business KPIs.
 
+![Executive Overview](images/power_bi1.jpeg)
+
 ### Page 2 — Cancellation Analysis
 
 Analyzes cancellation patterns across booking characteristics such as lead time, hotel type, market segment, and deposit type.
+
+![Cancellation Analysis](images/power_bi2.jpeg)
 
 ### Page 3 — Revenue & Booking Performance
 
 Focuses on ADR, estimated revenue, stay length, and booking performance.
 
+![Revenue & Booking Performance](images/power_bi3.jpeg)
+
 ### Page 4 — Customer & Market Intelligence
 
 Analyzes customer types, countries, repeat guests, and market behavior.
+
+![Customer & Market Intelligence](images/power_bi4.jpeg)
 
 ### Page 5 — Predictive Analytics
 
@@ -260,6 +273,8 @@ Presents:
 - Tuned model comparison
 - Feature importance
 - Predictive analytics findings
+
+![Predictive Analytics](images/power_bi5.jpeg)
 
 ---
 
