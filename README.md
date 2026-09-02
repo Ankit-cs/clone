@@ -11,9 +11,9 @@
 - **Roll No:** CSJMA2300139005
 - **Contribution:** Implemented the full pipeline.
 
-- **Member 3 Name:** 
-- **Roll No:** 
-- **Contribution:** 
+- **Member 3 Name:** Anjesh Arya
+- **Roll No:** CSJMA 23001390004
+- **Contribution:** Model Training and Evaluation 
 
 ---
 
