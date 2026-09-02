@@ -420,3 +420,6 @@ images/
 
 # Ignore dashboards folder
 dashboards/
+
+# Ignore large ML models (GitHub blocks files >100MB)
+models/*.pkl
